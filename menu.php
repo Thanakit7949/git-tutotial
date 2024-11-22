@@ -1,1 +1,3 @@
-<?php echo "my menu" ?>
+<?php 
+    echo "my menu";
+?>

@@ -1,1 +1,3 @@
-<?php echo "my index" ?>
+<?php 
+    echo "my index";
+?>
